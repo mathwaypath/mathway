@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">way of math</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="retype_password">Retype password</string>
+    <string name="register">Register</string>
+    <string name="existing_uesr_go_to_signin_page">Existing uesr Go to signin page</string>
+    <string name="signin" />
+    <string name="level3">level3</string>
+    <string name="level4">level4</string>
+    <string name="level2">level2</string>
+    <string name="level1">level1</string>
+    <string name="_8_6">8
+                        6 +
+                       ______</string>
+</resources>
